@@ -1,0 +1,2 @@
+# Deep-Learning-for-Speech-Recognition
+This project is the demonstration of how the speech recognition works in a machine by itself. The project requires to be worked on two main libraries in python known as 'Scipy' and 'Bumpy'. The project was trained for a selected list of words and you can add more to it according to the requirements. A step-by-step description for the implementation of the project can be found in the readme file. 
